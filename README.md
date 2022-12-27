@@ -1,4 +1,4 @@
-# Nottify-node
+# MusicPlayerServer
 
 Backend server for [MusicPlayer](https://github.com/kwanuwu/MusicPlayer)
 
